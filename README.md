@@ -1,4 +1,4 @@
-PROBLEMA
+Contexto
 ========
 Dado o seguinte log de uma corrida:
 
